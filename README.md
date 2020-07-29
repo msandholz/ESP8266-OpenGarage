@@ -8,3 +8,9 @@
 
 ## Get Certificate
 
+1. Download the latest version of the Certbot installer for Windows at https://dl.eff.org/certbot-beta-installer-win32.exe.
+2.
+3.
+4.
+5.
+
