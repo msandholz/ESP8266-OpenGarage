@@ -5,5 +5,3 @@
 
 ## Pin out of ESP8266 - ESP 01
 ![](ESP-01-ESP8266-pinout-gpio-pin.png)
-
-Test
